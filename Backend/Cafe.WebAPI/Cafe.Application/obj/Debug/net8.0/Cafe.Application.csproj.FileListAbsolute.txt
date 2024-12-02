@@ -1,0 +1,31 @@
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Application.deps.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Application.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Application.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.csproj.AssemblyReference.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.AssemblyInfoInputs.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.AssemblyInfo.cs
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.csproj.CoreCompileInputs.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.App.89CA2A17.Up2Date
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\refint\Cafe.Application.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\ref\Cafe.Application.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Application.deps.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Application.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Application.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\bin\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.csproj.AssemblyReference.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.AssemblyInfoInputs.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.AssemblyInfo.cs
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.csproj.CoreCompileInputs.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.sourcelink.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.App.89CA2A17.Up2Date
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\refint\Cafe.Application.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\Cafe.Application.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Application\obj\Debug\net8.0\ref\Cafe.Application.dll

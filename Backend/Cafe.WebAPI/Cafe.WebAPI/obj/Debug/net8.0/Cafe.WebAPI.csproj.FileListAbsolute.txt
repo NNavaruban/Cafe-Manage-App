@@ -1,0 +1,429 @@
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.staticwebassets.endpoints.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.exe
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.deps.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.runtimeconfig.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.pdb
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.csproj.AssemblyReference.cache
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.AssemblyInfoInputs.cache
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.AssemblyInfo.cs
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.csproj.CoreCompileInputs.cache
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Cafe.WebAPI.styles.css
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Cafe.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Cafe.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Cafe.WebAPI.props
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cafe.WebAPI.props
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cafe.WebAPI.props
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.Web.ABF1E43C.Up2Date
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\refint\Cafe.WebAPI.dll
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.pdb
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.genruntimeconfig.cache
+D:\dotnet\assessment\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\ref\Cafe.WebAPI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.staticwebassets.endpoints.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.exe
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.deps.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.runtimeconfig.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Application.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Application.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.csproj.AssemblyReference.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.AssemblyInfoInputs.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.AssemblyInfo.cs
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.csproj.CoreCompileInputs.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Cafe.WebAPI.styles.css
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Cafe.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Cafe.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Cafe.WebAPI.props
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cafe.WebAPI.props
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cafe.WebAPI.props
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.Web.ABF1E43C.Up2Date
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\refint\Cafe.WebAPI.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.genruntimeconfig.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\ref\Cafe.WebAPI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.staticwebassets.endpoints.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.exe
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.deps.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.runtimeconfig.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.WebAPI.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Application.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Application.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\bin\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.csproj.AssemblyReference.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.AssemblyInfoInputs.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.AssemblyInfo.cs
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.csproj.CoreCompileInputs.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.sourcelink.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Cafe.WebAPI.styles.css
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Cafe.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Cafe.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Cafe.WebAPI.props
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cafe.WebAPI.props
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cafe.WebAPI.props
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.Web.ABF1E43C.Up2Date
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\refint\Cafe.WebAPI.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\Cafe.WebAPI.genruntimeconfig.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.WebAPI\obj\Debug\net8.0\ref\Cafe.WebAPI.dll

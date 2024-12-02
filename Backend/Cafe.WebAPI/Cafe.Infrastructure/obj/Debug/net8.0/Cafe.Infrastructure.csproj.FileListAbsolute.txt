@@ -1,0 +1,29 @@
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.deps.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.runtimeconfig.json
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.csproj.AssemblyReference.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.AssemblyInfoInputs.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.AssemblyInfo.cs
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\refint\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.genruntimeconfig.cache
+D:\dotnet\assessment\Refactor Cafe Project\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\ref\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.deps.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.runtimeconfig.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\bin\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.csproj.AssemblyReference.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.AssemblyInfoInputs.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.AssemblyInfo.cs
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.sourcelink.json
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\refint\Cafe.Infrastructure.dll
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.pdb
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\Cafe.Infrastructure.genruntimeconfig.cache
+D:\dotnet\assessment\Publish to git\Re-test published files\Backend-Test\Cafe.WebAPI\Cafe.Infrastructure\obj\Debug\net8.0\ref\Cafe.Infrastructure.dll
