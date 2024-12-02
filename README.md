@@ -1,6 +1,6 @@
 
 
-Cafe Management Application
+**Cafe Management Application**
 This project is a Cafe Management Application that consists of a Backend and Frontend. Below are the instructions to set up the application on your local machine.
 
 1. Backend Setup
